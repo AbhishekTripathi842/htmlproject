@@ -1,0 +1,31 @@
+.bcolor{
+	background-color:grey;
+}
+
+
+.fontcolor_backgroundcolor{
+	color:white;
+	background-color: black;
+}
+
+.color{
+	color:white;
+}
+
+.background-color{
+	background-color: black;
+}
+
+
+.footer{
+	width:100%;
+	height:10%;
+	background-color: black;
+}
+
+.headder{
+	height:7%;
+	width:100%;
+}
+
+

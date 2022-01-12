@@ -1,0 +1,14 @@
+
+<!doctype>
+<html>
+    <head>
+	
+	<title>Checkbox</title>
+    </head>
+	<body class="bcolor">
+	<h1>I am Home</h1>
+<a href="contact.html" target="_blank">Contact-us</a>
+<a href="about.html" target="_blank">About-us</a>
+
+</body>
+</html>
